@@ -1,2 +1,2 @@
 # Movie-App
- Here’s a rewritten version:  A React application that allows users to rate movies, manage a favorites list, and organize them within a card interface.
+A React-based application where users can interact with movies by adding and removing rating stars, managing a list of favorites, and organizing them in a card interface. This project showcases foundational concepts in React, such as handling props, managing state, and implementing CSS modules for styling. Additionally, it provides practical experience in event handling within a React environment.
